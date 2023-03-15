@@ -1,0 +1,16 @@
+{
+    "name": "psixoz/todo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Psixoz\\Todo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "psixoz",
+            "email": "3a3965@gmail.com"
+        }
+    ],
+    "require": {}
+}
